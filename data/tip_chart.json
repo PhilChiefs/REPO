@@ -1,0 +1,80 @@
+[
+  {
+    "tip_size": 3.0,
+    "injector_size": 12.0,
+    "diffuser_size": 17.0,
+    "air_nozzle_size": 8.0
+  },
+  {
+    "tip_size": 3.5,
+    "injector_size": 13.0,
+    "diffuser_size": 17.0,
+    "air_nozzle_size": 8.0
+  },
+  {
+    "tip_size": 4.0,
+    "injector_size": 14.0,
+    "diffuser_size": 17.0,
+    "air_nozzle_size": 8.0
+  },
+  {
+    "tip_size": 4.5,
+    "injector_size": 14.0,
+    "diffuser_size": 17.0,
+    "air_nozzle_size": 8.0
+  },
+  {
+    "tip_size": 5.0,
+    "injector_size": 16.0,
+    "diffuser_size": 20.0,
+    "air_nozzle_size": 10.0
+  },
+  {
+    "tip_size": 5.5,
+    "injector_size": 16.0,
+    "diffuser_size": 20.0,
+    "air_nozzle_size": 10.0
+  },
+  {
+    "tip_size": 6.0,
+    "injector_size": 17.0,
+    "diffuser_size": 20.0,
+    "air_nozzle_size": 10.0
+  },
+  {
+    "tip_size": 6.5,
+    "injector_size": 18.0,
+    "diffuser_size": 23.0,
+    "air_nozzle_size": 13.0
+  },
+  {
+    "tip_size": 7.0,
+    "injector_size": 18.0,
+    "diffuser_size": 23.0,
+    "air_nozzle_size": 13.0
+  },
+  {
+    "tip_size": 7.5,
+    "injector_size": 19.0,
+    "diffuser_size": 23.0,
+    "air_nozzle_size": 13.0
+  },
+  {
+    "tip_size": 8.0,
+    "injector_size": 20.0,
+    "diffuser_size": 28.0,
+    "air_nozzle_size": 15.0
+  },
+  {
+    "tip_size": 8.5,
+    "injector_size": 21.0,
+    "diffuser_size": 28.0,
+    "air_nozzle_size": 15.0
+  },
+  {
+    "tip_size": 9.0,
+    "injector_size": 22.0,
+    "diffuser_size": 28.0,
+    "air_nozzle_size": 15.0
+  }
+]
