@@ -55,9 +55,9 @@ export default function Page() {
 
   return (
     <main style={{ maxWidth: 720, margin: "0 auto", padding: 24, fontFamily: "system-ui, sans-serif" }}>
-      <h1 style={{ fontSize: 24, fontWeight: 700 }}>Suttner Injector Sizing Guide</h1>
+      <h1 style={{ fontSize: 24, fontWeight: 700 }}>Suttner Chemical Injector Sizing Guide</h1>
       <p style={{ color: "#555", marginTop: 8 }}>
-        Enter pressure & flow. We match the nearest TIP SIZE and return Injector / Diffuser / Air from your chart.
+        Please enter the machine’s pressure and flow below to receive the recommended Injector, Diffuser, and Air Nozzle configuration.
       </p>
 
       {/* Inputs */}
@@ -162,7 +162,7 @@ export default function Page() {
 
       {/* Footer */}
       <div style={{ marginTop: 24, fontSize: 12, color: "#777" }}>
-        Guidance only. Verify in the field with a gauge & cylinder test.
+        Disclaimer: The information provided is for guidance only. If the pressure washer is not operating within its specified tolerances, the suggested settings may be unsuitable. We recommend servicing the unit to bring it back to the manufacturer’s specifications.
       </div>
       <div style={{ marginTop: 8, fontSize: 10, color: "#666" }}>
         Created by{" "}
