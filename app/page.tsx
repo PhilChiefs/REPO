@@ -57,7 +57,7 @@ export default function Page() {
     <main style={{ maxWidth: 720, margin: "0 auto", padding: 24, fontFamily: "system-ui, sans-serif" }}>
       <h1 style={{ fontSize: 24, fontWeight: 700 }}>Suttner Chemical Injector Sizing Guide</h1>
       <p style={{ color: "#555", marginTop: 8 }}>
-        Please enter the machine’s pressure and flow below to receive the recommended Injector, Diffuser, and Air Nozzle configuration.
+        Please enter the pressure cleaners pressure and flow below to receive the recommended Injector, Diffuser, and Air Nozzle configuration.
       </p>
 
       {/* Inputs */}
